@@ -51,6 +51,6 @@ Visualize the simulation result.
 - Virieux, J., & Operto, S. (2009). An overview of full-waveform inversion in exploration geophysics. Geophysics, 74(6), WCC1-WCC26.
 
 ## contact
-email: oren.sternberg.icloud.com
+email: oren.sternberg@icloud.com
 
 GitHub: [@0r3ntal](https://github.com/0r3ntal/SeismicSimulationFDM)
